@@ -1,4 +1,4 @@
-// Video explanation: https://www.youtube.com/watch?v=P3hUrm1-HeI
+// Video walkthrough: https://www.youtube.com/watch?v=P3hUrm1-HeI
 
 package main
 

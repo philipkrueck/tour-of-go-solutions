@@ -1,4 +1,4 @@
-// Video solution: https://www.youtube.com/watch?v=ak6IilRFRQE
+// Video walkthrough: https://www.youtube.com/watch?v=ak6IilRFRQE
 
 package main
 
